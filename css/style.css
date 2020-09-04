@@ -390,5 +390,6 @@ ul{
     z-index: -1;
 }
 body{
+    font-size: 15px;
     background-color: #c1c1c1;
 }
