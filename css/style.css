@@ -389,4 +389,6 @@ ul{
     background-color: #f3b29d;
     z-index: -1;
 }
-
+body{
+    background-color: #c1c1c1;
+}
